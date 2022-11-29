@@ -1,4 +1,4 @@
-package netlify-ddns
+package main
 
 import (
 	"encoding/json"
